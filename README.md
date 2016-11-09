@@ -1,2 +1,3 @@
 # dialogue_scraping
-・Englishforsdayよりスクレイピング
+・englishfor2day_dialogue.jl
+Englishfor2dayより対話データをスクレイピング
