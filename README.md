@@ -1,1 +1,2 @@
 # dialogue_scraping
+・Englishforsdayよりスクレイピング
